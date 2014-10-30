@@ -1,0 +1,15 @@
+ptcalcopt = 3
+pklinfname = examples/cosmoxi2dtmp90_matterpowerzeff.dat
+pkhval = 0.7
+pkampscale = 1.129183e+00
+qrintsfname = examples/qrintsMpc90
+sptvelfname = examples/sptvelintsMpc90
+bias = 2.024015e+00
+fvel = 7.170822e-01
+isotropicdisp1d = 3.999811e+01
+xi024outfname = examples/p6bestfitBOSSDR9.xi024
+alphaperp = 1.023087e+00
+alphapar = 1.022150e+00
+deltasfine = 2.0
+databinfile = examples/rbinhfid0.700.dat.23
+ellmax = 2

@@ -1,0 +1,15 @@
+ptcalcopt = 3
+pklinfname = examples/mylinearmatterpk.dat 
+pkhval = 0.7
+pkampscale = 1.0
+qrintsfname = examples/qrintsMpc
+sptvelfname = examples/sptvelintsMpc
+bias = 2.027565
+fvel = 0.74429
+isotropicdisp1d = 21.0
+xi024outfname = examples/p6iso21.xi024
+alphaperp = 1.0
+alphapar = 1.0
+deltasfine = 2.0
+databinfile = examples/rbinsims.dat
+ellmax = 4

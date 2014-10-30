@@ -1,0 +1,6 @@
+setupOptional("gsl")
+#
+# Executable binaries and shell scripts
+# belong in the bin directory.
+#
+envPrepend(PATH, ${PRODUCT_DIR}/bin)
