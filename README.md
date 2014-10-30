@@ -66,8 +66,8 @@ bin directory.
 Running
 ===============================================================================
 
-Various parameters are specified in a parameters file.  An example one is
-provided called 'p6new.params'
+Various parameters are specified in a parameters file.  Two example files are 
+provided in the examples directory.
 
 To run the examples, type
 
